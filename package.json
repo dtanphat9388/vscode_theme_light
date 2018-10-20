@@ -1,0 +1,27 @@
+{
+	"name": "ayulight",
+	"displayName": "AyuLight",
+	"description": "custom Ayu's theme",
+	"version": "0.0.1",
+	"publisher": "dtanphat9388",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ayu Light - Dtanphat9388",
+				"uiTheme": "vs",
+				"path": "./themes/Ayu Light - Dtanphat9388-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "02b3f3b0-f0fa-4315-b43b-5714e905554b",
+		"publisherId": "8428022c-bb4f-4226-9cbd-8ed7791332e3",
+		"publisherDisplayName": "dtanphat9388"
+	}
+}
