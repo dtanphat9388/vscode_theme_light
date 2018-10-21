@@ -2,7 +2,7 @@
 	"name": "ayulight",
 	"displayName": "AyuLight",
 	"description": "custom Ayu's theme",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "dtanphat9388",
 	"engines": {
 		"vscode": "^1.28.0"
