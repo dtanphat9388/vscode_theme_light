@@ -7,10 +7,8 @@ window.onload = function(){
 }
 
 import a from '';
-import b from '';
-import c from '';
-const a = require('./fdsafdsa');
-
+import unused from '';
+const c = require('./fdsafdsa');
 
 var string = 'string';
 let embedStr = `hello ${string}`
@@ -42,6 +40,8 @@ class a {
 }
 
 export default class name extends Error {}
+
+let instance = new name()
 
 
 

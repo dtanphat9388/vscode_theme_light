@@ -168,10 +168,7 @@
   //
 
   "colors": {
-    "activityBar.background": "#2F333D",
-    "activityBar.foreground": "#D7DAE0",
-    "activityBarBadge.background": "#528bff",
-    "activityBarBadge.foreground": "#F8FAFD",
+    
 
     "dropdown.border": "#181A1F",
     "dropdown.background": "#1d1f23",
@@ -186,25 +183,12 @@
 		"button.hoverBackground": "#95b9ff",
     "button.foreground": "#ffffff",
     
-    "editor.background": "#282c34",
-    "editor.lineHighlightBackground": "#383E4A",
-    "editor.selectionBackground": "#3E4451",
-
-    "editor.findMatchBackground": "#2aa198",
-    "editor.findMatchHighlightBorder": "#fff",
-    "editor.findMatchHighlightBackground": "#fff",
-    "editor.findRangeHighlightBorder": "#282c34",
-    "editor.findRangeHighlightBackground": "#3E4451",
-    "editor.findMatchBorder": "#2aa198",
+  
 
 
     //
     // TODO  SYNTAX
     //
-
-    
-    "editorBracketMatch.background": "#f2f2f2",
-    // "editorBracketMatch.border": "#3dd9ce",
     
     "editorGroup.border": "#181A1F",
     "editorGroup.emptyBackground": "#181A1F",
@@ -216,8 +200,6 @@
     "editorIndentGuide.background": "#3B4048",
 
 
-
-    "editorWhitespace.foreground": "#484a50",
 
     "editorHoverWidget.background": "#21252B",
     "editorHoverWidget.border": "#181A1F",
